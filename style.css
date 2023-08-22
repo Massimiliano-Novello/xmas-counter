@@ -1,0 +1,118 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    text-align: center;
+}
+
+body {
+    background-color: blue;
+    height: 100vh;
+}
+
+.container {
+    position: relative;
+}
+
+
+.xmas-stage {
+    background-color: #120945;
+    width: 350px;
+    margin: 32px auto 0 auto;
+    border-radius: 20px;
+    position: absolute;
+    top: 108px;
+    left: 347px;
+}
+
+
+.titolo h1 {
+    color: pink;
+}
+
+.counter {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-top: 10px;
+}
+
+.counter-blook {
+    height: 60px;
+    width: 60px;
+}
+
+.number {
+    font-size: 2rem;
+}
+
+.second {
+    font-size: 2rem;
+    color: orange;
+}
+
+.counter-blook:last-child {
+    color: orange;
+}
+
+.albero {
+    height: 500px;
+    margin: 0 auto;
+}
+
+
+.gift {
+    position: absolute;
+    width: 120px;
+}
+.gift_1 {
+    top: 470px;
+    right: 365px;
+
+}
+.gift_2 {
+    top: 523px;
+    left: 350px;
+    width: 120px;
+}
+
+.gift_3 {
+    
+    top: 441px;
+    left: 413px;
+    width: 60px;
+
+}
+/* Palline */
+.ball {
+    position: absolute;
+    width: 65px;
+}
+.ball_1 {
+    top: 358px;
+    left: 446px;
+}
+.ball_2 {
+    top: 297px;
+    left: 467px;
+}
+.ball_3 {
+    top: 278px;
+    right: 465px;
+}
+
+.ball_4 {
+    
+    top: 387px;
+    right: 419px;
+
+}
+
+.ball_5 {
+    top: 361px;
+    left: 512px;
+}
