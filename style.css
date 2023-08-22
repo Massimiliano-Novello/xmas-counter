@@ -26,7 +26,7 @@ body {
     border-radius: 20px;
     position: absolute;
     top: 108px;
-    left: 347px;
+    left: 568px;
 }
 
 
@@ -71,19 +71,19 @@ body {
 }
 .gift_1 {
     top: 470px;
-    right: 365px;
+    right: 596px;
 
 }
 .gift_2 {
     top: 523px;
-    left: 350px;
+    left: 592px;
     width: 120px;
 }
 
 .gift_3 {
     
     top: 441px;
-    left: 413px;
+    left: 647px;
     width: 60px;
 
 }
@@ -94,25 +94,25 @@ body {
 }
 .ball_1 {
     top: 358px;
-    left: 446px;
+    left: 652px;
 }
 .ball_2 {
     top: 297px;
-    left: 467px;
+    left: 683px;
 }
 .ball_3 {
     top: 278px;
-    right: 465px;
+    right: 683px;
 }
 
 .ball_4 {
     
     top: 387px;
-    right: 419px;
+    right: 661px;
 
 }
 
 .ball_5 {
     top: 361px;
-    left: 512px;
+    left: 730px;
 }
